@@ -1,5 +1,5 @@
-# I'm Niklas 
-**Aloha, my friend 🌴🥥**
+
+<h2 align='center'><samp><strong>Aloha, my friend 🌴🥥 I'm Niklas :)</strong></samp></h2>
 
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge)](https://troet.cafe/@niklasfischer)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/niklas_fischer)
