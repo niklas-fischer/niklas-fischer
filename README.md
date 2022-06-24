@@ -1,17 +1,20 @@
+# <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge)](https://troet.cafe/@niklasfischer)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/niklas_fischer)
 
-<div id="badges">
-  <a href="https://troet.cafe/@niklasfischer">
-    <img src="https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
-  </a>
-  <a href="https://t.me/niklas_fischer">
-    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
+**Glad to see you here!**
+
+Life is there for one thing: to uncover itself, like an onion, layer by layer. As an everyday philosopher, curious explorer and independent writer, I am engaged in exploring pertinent areas of life. From food, to exercise, to money, to aspects of thought - whatever there is to learn about, that's where I am and that's what I write about. Always in search of the objective truth.
+
+## Personal stuff
+
+* ✍️ I'm an author and independent writer
+* 😎 I’m currently working on something cool
+* 🍔 In my spare time I devour tons of books and munch all them burgers
+* 💬 Ask me about whatever comes to your mind, I am happy to help
+* 💌 Available for your next writing project 
+
 
 ## 🦅 Independence <a id="unabhaengigkeit"></a>
 
