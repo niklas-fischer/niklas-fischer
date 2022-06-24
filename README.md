@@ -27,10 +27,10 @@ My content is completly independent. I do not earn money with
 
 ## Licence 
 
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 Copy it, tattoo it, paint it on an airplane, print it on posters, read it to your kittens to put them to sleep - anything goes. 
 The only thing that matters is that you mention my name, refer to the license and indicate changes. 
 Furthermore, only I am allowed to use the content commercially. You also have to publish the modified data under the same license. 
 
-**My content is licensed under** [**CC BY-NC 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) (unless explicitly stated otherwise)
+**My content is licensed under** [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) (unless explicitly stated otherwise)
