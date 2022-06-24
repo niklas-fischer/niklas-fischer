@@ -1,4 +1,6 @@
-# <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# Aloha, my friend 🌴🥥
+
+## I'm Niklas
 
 [![Mastodon Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge)](https://troet.cafe/@niklasfischer)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/niklas_fischer)
