@@ -1,10 +1,6 @@
 
 <h2 align='center'><samp><strong>Aloha, my friend 🌴🥥 I'm Niklas :)</strong></samp></h2>
 
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge)](https://troet.cafe/@niklasfischer)
-[![PayPal Badge](https://img.shields.io/badge/PayPal-lightgrey?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/ichbinniklasfischer)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/niklas_fischer)
-
 **Glad to see you here!**
 
 Life is there for one thing: to uncover itself, like an onion, layer by layer. As an everyday philosopher, curious explorer and independent writer, I am engaged in exploring pertinent areas of life. From food, to exercise, to money, to aspects of thought - whatever there is to learn about, that's where I am and that's what I write about. Always in search of the objective truth.
